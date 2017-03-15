@@ -15,10 +15,10 @@ dispatcher = updater.dispatcher
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                      level=logging.INFO)
 conexaoMenu = {
-    0 : "Não sei",
+    0 : "Filé Mignon com batata chips",
     1 : "Não sei",
-    2 : "Picanha com batata frita",
-    3 : "Não sei",
+    2 : "Não sei",
+    3 : "Picanha com batata frita",
     4 : "Não sei",
 }
 
